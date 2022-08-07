@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.exe
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.deps.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.runtimeconfig.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\ref\tudien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\bin\Debug\net5.0\tudien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\ref\tudien.dll
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.pdb
+C:\Users\PHANMINHTIEN\OneDrive\Máy tính\tudien\obj\Debug\net5.0\tudien.genruntimeconfig.cache
